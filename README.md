@@ -2,15 +2,15 @@
 
 ```javascript
 const berzavlu = {
-    code: ["Javascript", "Typescript", "PHP"],
+    code: ["JavaScript", "TypeScript", "PHP"],
     askMeAbout: ["web dev", "tech"],
     technologies: {
         mobileApp: ["React Native"],
         frontEnd: {
-            js: ["React Js", "Next Js"],
+            js: ["React.js", "Next.js"],
         },
         backEnd: {
-            js: ["node", "express"],
+            js: ["Node.js"],
         },
         devOps: ["AWS", "Docker", "Nginx"],
         databases: ["MySQL", "MongoDB"],
