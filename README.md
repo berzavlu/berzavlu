@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<br>
-
 ```javascript
 const berzavlu = {
     code: ["Javascript", "Typescript", "PHP"],
@@ -21,9 +19,6 @@ const berzavlu = {
     architecture: ["Serverless", "PWA", "SPA"],
 }
 ```
-
-[![Berzavlu github stats](https://github-readme-stats.vercel.app/api?username=berzavlu&theme=dark&show_icons=true)](https://github.com/berzavlu/berzavlu)
-
 <!--
 **berzavlu/berzavlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
